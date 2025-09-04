@@ -1,7 +1,10 @@
 # 🛡️ Phishing Detection Tool (AI Cyber Security Project)
 
-![Tool UI Screenshot](Screenshot%202025-09-01%20004139.png)
-![Scan Result Example](Screenshot%202025-09-01%20004238.png)
+<img width="1413" height="958" alt="phistank png" src="https://github.com/user-attachments/assets/fc918b1d-10a6-422e-b813-4aa092cc2ae6" />
+<img width="1491" height="963" alt="phistank2 png" src="https://github.com/user-attachments/assets/dd988916-a97d-4a6c-a8cc-4bfd3befb7a9" />
+
+
+
 
 This project is a **real-time phishing URL detection tool** that combines **heuristic analysis** and the **PhishTank API** to help identify potentially malicious websites.
 
